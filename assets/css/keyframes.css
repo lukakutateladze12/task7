@@ -1,0 +1,9 @@
+@keyframes carRight {
+    0% {background-color: aqua; left: 0; }
+    100% {background-color: aquamarine; left: 100%; }
+}
+
+@keyframes carLeft {
+    0% {background-color: aqua; right: 0; }
+    100% {background-color: aquamarine; right: 100%; }
+}
